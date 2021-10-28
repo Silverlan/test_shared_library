@@ -3,4 +3,5 @@
 
 __declspec(dllexport) void test_func();
 
+
 #endif
